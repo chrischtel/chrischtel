@@ -12,9 +12,12 @@ I've been started to code for years, after having a long break, i decided to lea
 *   🧠  I'm learning the Rust programming language
 *   🤝  I'm open to collaborating on Rust related things
 *   ⚡  I am 18 years old
+
 <a href="https://www.twitter.com/chrischtelbaum" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/chrischtelbaum?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/chrischtell" target="_blank" rel="noreferrer"><img
+                /></a>
+
+<a href="https://www.twitch.tv/chrischtell" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/chrischtell?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills 
