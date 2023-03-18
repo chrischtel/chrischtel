@@ -4,7 +4,7 @@ Hi 👋 My name is Chrischtel
 Stundet and Rust Developer
 --------------------------
 
-I've been started to code for years, after having a long break, i decided to learn Rust. I like to test things out in rust.
+I started programming minecraft plugins in java three years ago, after a long break I decided to learn Rust. I like to try new things in Rust.
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [chrischtelbaum@gmail.com](mailto:chrischtelbaum@gmail.com)
