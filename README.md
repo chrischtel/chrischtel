@@ -19,6 +19,8 @@ I've been started to code for years, after having a long break, i decided to lea
 
 <a href="https://www.twitch.tv/chrischtell" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/chrischtell?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Current Projects
+* [Netres](http://github.com/chrischtel/netres) -> [![Release](https://github.com/chrischtel/netres/actions/workflows/release.yml/badge.svg)](https://github.com/chrischtel/netres/actions/workflows/release.yml)
 
 ### Skills 
 <p align="left">
