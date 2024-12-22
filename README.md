@@ -16,15 +16,13 @@ Hi there! I'm **Max Mustermann**, a passionate developer focused on **system pro
 
 ### 🛠 [Nexlog](https://github.com/chrischtel/nexlog)
 - **A blazing-fast logging library for Zig** 🔥  
-- Features: Thread safety, file rotation, colorized output  
-- [Documentation](https://maxmustermann.github.io/nexlog)
-
+- Features: Thread safety, file rotation, colorized output (a lot more is planned, with some unique ones)
 ---
 
 ### 🌌 [zfitsio](https://github.com/chrischtel/zfitsio)
 - **A lightweight library for reading and writing FITS files in Zig** 📊  
 - Designed for astrophysics and high-performance data analysis.  
-- Features: Zero dependencies, high-speed processing, modern API design.  
+- Features: Zero dependencies (no need to install cfitsio or other deps), high-speed processing, modern API design.  
 
 ---
 ## 📈 **GitHub Stats**
