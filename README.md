@@ -1,9 +1,5 @@
 # 🌟 Welcome to My GitHub Profile! 🚀
 
-Hi there! I'm **Max Mustermann**, a passionate developer focused on **system programming**, **game development**, and **open-source contributions**. I love exploring cutting-edge technologies and sharing my knowledge with the community.
-
----
-
 ## 🔥 **Highlights**
 
 - 🔧 **Languages:** Zig  
