@@ -32,7 +32,7 @@
 
 ## 🌐 **Let's Connect**
 
-- 🐦 **Twitter:** [@maxmustermann](https://twitter.com/chrischtelbaum)  
+- 🐦 **Twitter:** [@chrischtelbaum](https://twitter.com/chrischtelbaum)  
 
 ---
 
