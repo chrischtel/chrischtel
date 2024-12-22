@@ -6,35 +6,27 @@ Hi there! I'm **Max Mustermann**, a passionate developer focused on **system pro
 
 ## 🔥 **Highlights**
 
-- 🔧 **Languages:** Rust, Zig, C++, Python  
-- 🌌 **Interests:** Astrophysics, Game Development, Productivity Tools  
-- 🌱 **Currently Learning:** High-Performance Computing, GUI Development in Zig  
+- 🔧 **Languages:** Zig  
+- 🌌 **Interests:** Astrophysics, Programming 
+- 🌱 **Currently Learning:** Zig with all its strengths and weaknesses  
 
 ---
 
 ## 📂 **Featured Projects**
 
-### 🛠 [Nexlog](https://github.com/MaxMustermann/nexlog)
+### 🛠 [Nexlog](https://github.com/chrischtel/nexlog)
 - **A blazing-fast logging library for Zig** 🔥  
 - Features: Thread safety, file rotation, colorized output  
 - [Documentation](https://maxmustermann.github.io/nexlog)
 
 ---
 
-### 🌌 [zfitsio](https://github.com/MaxMustermann/zfitsio)
+### 🌌 [zfitsio](https://github.com/chrischtel/zfitsio)
 - **A lightweight library for reading and writing FITS files in Zig** 📊  
 - Designed for astrophysics and high-performance data analysis.  
 - Features: Zero dependencies, high-speed processing, modern API design.  
 
 ---
-
-## 💡 **What I Offer**
-
-- 🔍 **Open-Source Enthusiast:** Contributing to and maintaining quality projects.  
-- 🛠 **Tool Builder:** Custom tools for developers, from logging libraries to data analysis.  
-
----
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -46,9 +38,7 @@ Hi there! I'm **Max Mustermann**, a passionate developer focused on **system pro
 
 ## 🌐 **Let's Connect**
 
-- 🖥️ **Portfolio:** [maxmustermann.dev](https://maxmustermann.dev)  
-- 🐦 **Twitter:** [@maxmustermann](https://twitter.com/maxmustermann)  
-- 💌 **Email:** max@mustermann.dev  
+- 🐦 **Twitter:** [@maxmustermann](https://twitter.com/chrischtelbaum)  
 
 ---
 
