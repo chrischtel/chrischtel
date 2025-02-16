@@ -3,12 +3,16 @@
 ## 🔥 **Highlights**
 
 - 🔧 **Languages:** Zig  
-- 🌌 **Interests:** Astrophysics, Programming 
+- 🌌 **Interests:** Astrophysics, Low Level, Programming 
 - 🌱 **Currently Learning:** Zig with all its strengths and weaknesses  
 
 ---
 
 ## 📂 **Featured Projects**
+
+### 🖥️ [Ziglet](https://github.com/chrischtel/Ziglet)
+- **A Minimalist, High-Performance Virtual Machine in Zig**  
+---
 
 ### 🛠 [Nexlog](https://github.com/chrischtel/nexlog)
 - **A blazing-fast logging library for Zig** 🔥  
