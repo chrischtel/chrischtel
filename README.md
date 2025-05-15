@@ -3,7 +3,7 @@
 ## 🔥 **Highlights**
 
 - 🔧 **Languages:** Zig  
-- 🌌 **Interests:** Astrophysics, Low Level, Programming 
+- 🌌 **Interests:** Astrophysics, Systems Programming
 - 🌱 **Currently Learning:** Zig with all its strengths and weaknesses  
 
 ---
