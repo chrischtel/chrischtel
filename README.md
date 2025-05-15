@@ -2,9 +2,9 @@
 
 ## 🔥 **Highlights**
 
-- 🔧 **Languages:** Zig  
+- 🔧 **Languages:** Zig, D (Lang)
 - 🌌 **Interests:** Astrophysics, Systems Programming
-- 🌱 **Currently Learning:** Zig with all its strengths and weaknesses  
+- 🌱 **Currently Learning:** D (Lang) 
 
 ---
 
